@@ -1,0 +1,14 @@
+﻿<?xml version="1.0"?>
+<sharpUpdate>
+  <update appID="RCM_WO">
+    <version>1.0.0.1</version>
+    <url>https://raw.githubusercontent.com/henryxrl/SharpUpdate/master/TestApp/bin/Debug/TestApp.exe</url>
+    <fileName>RCM_WO.exe</fileName>
+    <md5>F16F9270971EAEAE8E313B32E8FF0814</md5>
+    <description>
+      Update: 08/25/2016:
+      1. Added notification message when the current version is already the latest.
+    </description>
+    <launchArgs></launchArgs>
+  </update>
+</sharpUpdate>
